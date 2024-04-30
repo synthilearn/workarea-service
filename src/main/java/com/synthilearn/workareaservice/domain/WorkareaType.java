@@ -4,7 +4,7 @@ import lombok.Getter;
 
 @Getter
 public enum WorkareaType {
-    LEARN_LANGUAGE("Изучение языков");
+    LEARN_LANGUAGE("Изучение английского языка");
 
     private final String title;
 
